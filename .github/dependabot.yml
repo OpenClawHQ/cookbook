@@ -1,4 +1,4 @@
-# Dependabot: Actions 升级 PR
+# Dependabot: GitHub Actions upgrade PRs
 version: 2
 updates:
   - package-ecosystem: "github-actions"

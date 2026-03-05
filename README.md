@@ -1,5 +1,7 @@
 # OpenClaw Skills Cookbook
 
+[![Skills](https://img.shields.io/badge/skills-5-E03E3E)](./skills) [![skill-lint](https://img.shields.io/badge/validated%20by-skill--lint-success)](https://github.com/OpenClawHQ/skill-lint) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+
 A collection of community-contributed OpenClaw skill recipes. Each skill is a ready-to-use workflow component for common tasks: Jira triage, database queries, Docker management, git operations, and more.
 
 ## What Are Skills?
