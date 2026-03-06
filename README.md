@@ -1,6 +1,6 @@
 # OpenClaw Skills Cookbook
 
-[![Skills](https://img.shields.io/badge/skills-5-E03E3E)](./skills) [![skill-lint](https://img.shields.io/badge/validated%20by-skill--lint-success)](https://github.com/OpenClawHQ/skill-lint) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+[![Skills](https://img.shields.io/badge/skills-5-E03E3E)](./skills) [![skill-lint](https://img.shields.io/badge/validated%20by-skill--lint-success)](https://github.com/effectorHQ/skill-lint) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 A collection of community-contributed OpenClaw skill recipes. Each skill is a ready-to-use workflow component for common tasks: Jira triage, database queries, Docker management, git operations, and more.
 
@@ -192,7 +192,7 @@ See any skill's `SKILL.md` for complete details.
 ## Resources
 
 - [OpenClaw GitHub](https://github.com/openclaw/openclaw) - Main project
-- [Skill Template](https://github.com/OpenClawHQ/skill-template) - Starter template
+- [Skill Template](https://github.com/effectorHQ/skill-template) - Starter template
 - [Contributing Guide](./CONTRIBUTING.md) - How to contribute
 - [OpenClaw Docs](https://docs.openclaw.dev) - Full documentation
 
